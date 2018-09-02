@@ -16,6 +16,8 @@ namespace Hilight
             Console.WriteLine("เงินหมด");
             Console.WriteLine("third years");
             Console.WriteLine("งานเยอะ");
+            Console.WriteLine("four years");
+            Console.WriteLine("เตรียมฝึกสอน");
             Console.ReadKey();
         }
     }
