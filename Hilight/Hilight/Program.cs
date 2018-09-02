@@ -12,6 +12,10 @@ namespace Hilight
         {
             Console.WriteLine("First years");
             Console.WriteLine("ทำกิจกรรมเยอะมาก");
+            Console.WriteLine("second years");
+            Console.WriteLine("เงินหมด");
+            Console.WriteLine("third years");
+            Console.WriteLine("งานเยอะ");
             Console.ReadKey();
         }
     }
